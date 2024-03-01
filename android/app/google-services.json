@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "424111057486",
+    "project_id": "maxapp-70c70",
+    "storage_bucket": "maxapp-70c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424111057486:android:468757377685857f77b11f",
+        "android_client_info": {
+          "package_name": "com.maxapp.maxapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR6Kr1lqhw2cTfTqotMdj6PDa4XdEVErk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
